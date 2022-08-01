@@ -1,8 +1,11 @@
 this is new text file. Changing file content from github directly.
-<<<<<<< HEAD
+
 Hello
-=======
+
 Again
->>>>>>> 0c2bed28aacc7522167bfc6cb5ebf68d2495c199
+
+
+-----branching-----
 
 add-more-instructions
+
